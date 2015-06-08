@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Rows>
+  <Row>
+    <baseURL>https://api.data.gov/nrel/alt-fuel-stations/v1/</baseURL>
+    <dataFormat>.json</dataFormat>
+    <APIKey>OoCEWsLwSiXOyMyDkEDBeigTEuh2YQunciywe7sI</APIKey>
+    <expectedStationAddress>208 Barton Springs Rd, Austin, TX, 78704</expectedStationAddress>
+  </Row>
+</Rows>

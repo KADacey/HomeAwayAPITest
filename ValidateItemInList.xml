@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Rows>
+  <Row>
+    <baseURL>https://api.data.gov/nrel/alt-fuel-stations/v1/</baseURL>
+    <dataFormat>nearest.json</dataFormat>
+    <APIKey>OoCEWsLwSiXOyMyDkEDBeigTEuh2YQunciywe7sI</APIKey>
+    <locationName>Austin+TX</locationName>
+    <evNetworkName>ChargePoint Network</evNetworkName>
+    <expectedStationName>HYATT AUSTIN</expectedStationName>
+  </Row>
+</Rows>
